@@ -12,5 +12,19 @@
         "message": "This is endpoint 2"
       }
     }
+  ],
+   "data": [
+    {
+      "name": "data1",
+      "data": {
+        "message": "This is data 1"
+      }
+    },
+    {
+      "name": "data2",
+      "data": {
+        "message": "This is data 2"
+      }
+    }
   ]
 }
