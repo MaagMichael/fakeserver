@@ -1,0 +1,16 @@
+{
+  "endpoints": [
+    {
+      "name": "endpoint1",
+      "data": {
+        "message": "This is endpoint 1"
+      }
+    },
+    {
+      "name": "endpoint2",
+      "data": {
+        "message": "This is endpoint 2"
+      }
+    }
+  ]
+}
