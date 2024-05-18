@@ -1,0 +1,264 @@
+{
+  "home_hero": [
+      {
+        "id": "hi0",
+        "title_pic": "Dance Party 1",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-01.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi1",
+        "title_pic": "Dance Party 2",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-02.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi2",
+        "title_pic": "Dance Party 3",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-03.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi3",
+        "title_pic": "Dance Party 4",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-04.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi4",
+        "title_pic": "Dance Party 5",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-05.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi5",
+        "title_pic": "Dance Party 6",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-06.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi6",
+        "title_pic": "Dance Party 7",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-07.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi7",
+        "title_pic": "Dance Party 8",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-08.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi8",
+        "title_pic": "Dance Party 9",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-09.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi9",
+        "title_pic": "Dance Party 10",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-10.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi10",
+        "title_pic": "Dance Party 11",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-11.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi11",
+        "title_pic": "Dance Party 12",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-12.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi12",
+        "title_pic": "Dance Party 13",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-13.jpg",
+        "link_to": "path of page in next router"
+      },
+      {
+        "id": "hi13",
+        "title_pic": "Dance Party 14",
+        "language": "language of text content",
+        "src_pic": "/images/hero/hero-14.jpg",
+        "link_to": "path of page in next router"
+      }
+    ],
+    "home_events": [
+      {
+        "id": "e0",
+        "priority": 1,
+        "src_event_pic": "/images/eventslider/eventslider1.png",
+        "title_event": "Corso Leopold",
+        "subtitle_event": "...endlich geht's los!",
+        "label_event": "Special",
+        "language_event": "de",
+        "place_event": "Leopoldstraße München",
+        "date_event_UTC": "2024-05-01T00:00:00.000Z",
+        "date_event_local": "14.-15.09.2024",
+        "time_event": "",
+        "weekday_event": "Sa.-So.",
+        "color_card": "rgba(137, 8, 8, 0.85)",
+        "link_to": "https://corso-leopold.de/"
+      },
+      {
+        "id": "e1",
+        "priority": 2,
+        "src_event_pic": "/images/eventslider/eventslider5.png",
+        "title_event": "18. Balboa & Shag Weekend",
+        "subtitle_event": "Dancing the Balboa and Shag...",
+        "label_event": "Festival",
+        "language_event": "de",
+        "place_event": "",
+        "date_event_UTC": "2024-03-30T00:00:00.000Z",
+        "date_event_local": "25.-27.10.2024",
+        "time_event": "",
+        "weekday_event": "Fr.-So.",
+        "color_card": "rgba(14, 14, 14, 0.75)",
+        "link_to": "https://mbsw.worldofswing.com/"
+      },
+      {
+        "id": "e2",
+        "priority": 3,
+        "src_event_pic": "/images/eventslider/eventslider1.png",
+        "title_event": "Rock That Swing Festival",
+        "subtitle_event": "Epic, Classic and Wild again!",
+        "label_event": "Festival",
+        "language_event": "de",
+        "place_event": "DEUTSCHES THEATER München ",
+        "date_event_UTC": "2024-11-01T00:00:00.000Z",
+        "date_event_local": "27.02.-03.03.2025",
+        "time_event": " ",
+        "weekday_event": "",
+        "color_card": "rgba(124, 78, 34, 0.85)",
+        "link_to": "https://www.rockthatswing.com/"
+      },
+      {
+        "id": "e3",
+        "priority": 4,
+        "src_event_pic": "/images/eventslider/eventslider5.png",
+        "title_event": "Boogie Woogie Beginner Workshop",
+        "subtitle_event": "",
+        "label_event": "Workshop",
+        "language_event": "de",
+        "place_event": "",
+        "date_event_UTC": "2024-03-30T00:00:00.000Z",
+        "date_event_local": "19.10.2024",
+        "time_event": "10:30-14:00",
+        "weekday_event": "Fr.",
+        "color_card": "rgba(14, 14, 14, 0.75)",
+        "link_to": "https://www.vintage-club.de/"
+      },
+      {
+        "id": "e4",
+        "priority": 5,
+        "src_event_pic": "/images/eventslider/eventslider1.png",
+        "title_event": "Lindy Hop Beginner Workshop",
+        "subtitle_event": "",
+        "label_event": "Workshop",
+        "language_event": "de",
+        "place_event": "",
+        "date_event_UTC": "2024-03-30T00:00:00.000Z",
+        "date_event_local": "19.10.2024",
+        "time_event": "15:00-18:30",
+        "weekday_event": "Fr.",
+        "color_card": "rgba(14, 14, 14, 0.75)",
+        "link_to": "https://www.vintage-club.de/"
+      },
+      {
+        "id": "e5",
+        "priority": 6,
+        "src_event_pic": "/images/eventslider/eventslider5.png",
+        "title_event": "Anfängerparty Beginner",
+        "subtitle_event": "",
+        "label_event": "Party",
+        "language_event": "de",
+        "place_event": "",
+        "date_event_UTC": "2024-03-30T00:00:00.000Z",
+        "date_event_local": "19.10.2024",
+        "time_event": "20:00-24:00",
+        "weekday_event": "Fr.",
+        "color_card": "rgba(14, 14, 14, 0.75)",
+        "link_to": "https://www.vintage-club.de/"
+      },
+      {
+        "id": "e6",
+        "priority": 7,
+        "src_event_pic": "/images/eventslider/eventslider5.png",
+        "title_event": "20s Charleston Beginner Workshop",
+        "subtitle_event": "",
+        "label_event": "Workshop",
+        "language_event": "de",
+        "place_event": "",
+        "date_event_UTC": "2024-03-30T00:00:00.000Z",
+        "date_event_local": "20.10.2024",
+        "time_event": "10:30-12:30",
+        "weekday_event": "Sa.",
+        "color_card": "rgba(14, 14, 14, 0.75)",
+        "link_to": "https://www.vintage-club.de/"
+      },
+      {
+        "id": "e7",
+        "priority": 8,
+        "src_event_pic": "/images/eventslider/eventslider1.png",
+        "title_event": "Shim Sham Workshop",
+        "subtitle_event": "",
+        "label_event": "Workshop",
+        "language_event": "de",
+        "place_event": "",
+        "date_event_UTC": "2024-03-30T00:00:00.000Z",
+        "date_event_local": "20.10.2024",
+        "time_event": "13:00-15:00",
+        "weekday_event": "Sa.",
+        "color_card": "rgba(14, 14, 14, 0.75)",
+        "link_to": "https://www.vintage-club.de/"
+      },
+      {
+        "id": "e9",
+        "priority": 10,
+        "src_event_pic": "/images/eventslider/eventslider5.png",
+        "title_event": "Tango Café",
+        "subtitle_event": "",
+        "label_event": "Party",
+        "language_event": "de",
+        "place_event": "",
+        "date_event_UTC": "2024-03-30T00:00:00.000Z",
+        "date_event_local": "20.10.2024",
+        "time_event": "15:30-18:30",
+        "weekday_event": "Sa.",
+        "color_card": "rgba(124, 78, 34, 0.85)",
+        "link_to": "https://www.vintage-club.de/"
+      },
+      {
+        "id": "e10",
+        "priority": 11,
+        "src_event_pic": "/images/eventslider/eventslider1.png",
+        "title_event": "50s Record Hop",
+        "subtitle_event": "",
+        "label_event": "Party",
+        "language_event": "de",
+        "place_event": "",
+        "date_event_UTC": "2024-03-30T00:00:00.000Z",
+        "date_event_local": "20.10.2024",
+        "time_event": "19:15-23:15",
+        "weekday_event": "Sa.",
+        "color_card": "rgba(14, 14, 14, 0.75)",
+        "link_to": "https://www.vintage-club.de/"
+      }
+    ]
+  }
